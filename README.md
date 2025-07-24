@@ -47,6 +47,11 @@ Bob Johnson,,
 
 ---
 
+## 📷 Sample Screenshot
+![!! Sample Image !!](image.png)
+
+---
+
 ## 📤 Output
 
 - Each row in the CSV results in a personalized **PDF certificate**
@@ -60,9 +65,4 @@ Bob Johnson,,
 Install dependencies using:
 
 ```bash
-pip install -r requirements.txt ```
-
----
-
-## 📷 Sample Screenshot
-![!! Sample Image !!](image.png)
+pip install -r requirements.txt 
