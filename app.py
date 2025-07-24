@@ -21,7 +21,7 @@ COURSE_POS = (1100, 730)
 DATE_POS = (1000, 850)
 
 st.set_page_config(page_title="AI Certificate Generator", layout="centered")
-st.title("🎓 AI-Powered Certificate Generator")
+st.title("AI-Powered Certificate Generator")
 
 uploaded_file = st.file_uploader(" Upload CSV with Name, Course, Date (optional)", type=["csv"])
 default_course = st.text_input(" Course Name (used if not in CSV)")
