@@ -60,7 +60,9 @@ Bob Johnson,,
 Install dependencies using:
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt ```
+
+---
 
 ## 📷 Sample Screenshot
 ![!! Sample Image !!](image.png)
