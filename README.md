@@ -39,6 +39,9 @@ This project is a **Streamlit-based web app** that generates personalized **cour
 
 The uploaded `.csv` file should have these columns:
 
+Name,Course,Date
+Alice Smith,Python Bootcamp,2025-07-20
+Bob Johnson,,
 
 - If `Course` or `Date` is empty, the app will use the default values entered in the form.
 
@@ -58,3 +61,6 @@ Install dependencies using:
 
 ```bash
 pip install -r requirements.txt
+
+## 📷 Sample Screenshot
+![!! Sample Image !!](image.png)
